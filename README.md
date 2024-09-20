@@ -2,37 +2,25 @@
 
 I am a student of Danang University of Science and Technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![thuannguyenhuu11's Stats](https://github-readme-stats.vercel.app/api?username=thuannguyenhuu11&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Software Engineer at Danang University of Science and Technology.
 - 📝 I write in-depth, long-form articles on my website.
 
-## My Articles
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thuannguyenhuu11&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thuannguyenhuu11&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thuannguyenhuu11&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🌱 Currently Exploring
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+---
+[![](https://visitcount.itsvg.in/api?id=Duy-Thong&icon=2&color=1)](https://visitcount.itsvg.in)
 
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
-
-## 📬 Get in Touch
-
-- Connect with me on [Facebook](https://www.facebook.com/gabriel.reyes8/)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
