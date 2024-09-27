@@ -8,6 +8,8 @@ I am a student of Danang University of Science and Technology. My journey involv
 - 🔭 I'm currently pursuing my Master's in Software Engineer at Danang University of Science and Technology.
 - 📝 I write in-depth, long-form articles on my website.
 
+![Alt text](https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif)
+
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
