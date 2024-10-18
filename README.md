@@ -5,8 +5,9 @@ I am a student of Danang University of Science and Technology. My journey involv
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Software Engineer at Danang University of Science and Technology.
-- 📝 I write in-depth, long-form articles on my website.
+- 📝 I’m interested in Web Developer
+- 👀 I’m currently learning ReactJS and NextJS.
+- ⬆️ My portfolio: [here](https://portfolio-thuannguyen11s-projects.vercel.app/)
 
 ![Alt text](https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif)
 
